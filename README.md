@@ -27,7 +27,7 @@ A business-focused project completed in collaboration with industry professional
 ### [Telco Churn Analysis](https://github.com/charlescai-arch/telco-churn-analysis)
 A predictive analytics project focused on customer churn modeling and segmentation, with the goal of identifying drivers of churn and supporting retention strategies.
 
-### [Big Data Wrangling with Google Books Ngrams](ADD_LINK_IF_YOU_UPLOAD_IT)
+### [Big Data Wrangling with Google Books Ngrams](https://github.com/charlescai-arch/google-books-ngrams-big-data)
 An end-to-end big data workflow using AWS EMR, Spark, Hadoop, HDFS, and S3 to load, filter, process, and visualize a large public dataset.
 
 ## What You’ll Find in My Portfolio

@@ -9,7 +9,7 @@ I’m especially interested in using analytics and machine learning to solve pra
 - Graduate of BrainStation’s Data Science bootcamp
 - Background in sales, education, and client-facing business roles
 - Interested in analytics, machine learning, and business-focused problem solving
-- Based in Vancouver, BC
+
 
 ## Technical Skills
 
